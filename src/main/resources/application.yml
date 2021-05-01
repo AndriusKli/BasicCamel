@@ -1,0 +1,9 @@
+server:
+  port: 9090
+spring:
+  artemis:
+    mode: native
+    host: localhost
+    port: 60006
+    user: admin
+    password: admin
